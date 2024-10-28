@@ -1,0 +1,3 @@
+D:\University\Second Year\1st semster\volemachine\volemachine\x64\Debug\volemachine.vcxproj.AssemblyReference.cache
+D:\University\Second Year\1st semster\volemachine\volemachine\x64\Debug\volemachine.MyForm.resources
+D:\University\Second Year\1st semster\volemachine\volemachine\x64\Debug\volemachine.vcxproj.GenerateResource.cache
