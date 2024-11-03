@@ -12,9 +12,9 @@ Download font here : https://fontsgeek.com/fonts/montserrat-extra-bold
 4- To prevent any error at running time go to project >> propreties >> Linker >> command line >> write this code ( /FORCE:MULTIPLE ) then press Ok  
 now you can run program successfully 
 # NOTE:  
-•	Our team worked hard to complete this program with care and attention to detail. 
-•	We have handled every error, and mistake can be done from user. 
-•	We’ve set up error messages to guide users when they enter invalid inputs like '201' or 'ssss,' helping them correct mistakes easily. 
-•	This program done on Visual studio community 2022 and we have used Winform for making GUI. 
+•	Our team worked hard to complete this program with care and attention to detail.  
+•	We have handled every error, and mistake can be done from user.  
+•	We’ve set up error messages to guide users when they enter invalid inputs like '201' or 'ssss,' helping them correct mistakes easily.   
+•	This program done on Visual studio community 2022 and we have used Winform for making GUI.   
 
   
