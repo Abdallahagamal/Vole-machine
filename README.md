@@ -8,7 +8,7 @@ How to setup to run the code successfully
 2- You need to Install C++ CLR Workloads in Visual Studio  
 see this video : https://youtu.be/HcxlYkU8aY0?si=zUxBNQBskyfAlbkn  
 3- Install the the "Montserrat ExtraBold" font right click on "Montserrat ExtraBold" font and press "Install for all users"  
-Download font here : https://fontsgeek.com/fonts/montserrat-extra-bold 
+Download font here : https://fontsgeek.com/fonts/montserrat-extra-bold   
 4- To prevent any error at running time go to project >> propreties >> Linker >> command line >> write this code ( /FORCE:MULTIPLE ) then press Ok  
 now you can run program successfully 
 # NOTE:  
